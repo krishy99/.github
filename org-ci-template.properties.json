@@ -1,0 +1,6 @@
+{
+  "name" : "Organization CI Workflow",
+  "description" : "Morrisseycode CI Starter Workflow",
+  "iconName" : "octicon organization",
+  "categories" : ["Deployment"]
+}
